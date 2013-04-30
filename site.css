@@ -45,6 +45,9 @@ input:focus{
 .header a span{
 	color: #f03c3c;
 }
+.header .searchPart{
+	float: right;
+}
 .header .searchContainer{
 	position: relative;
 }
